@@ -31,6 +31,7 @@ Tic-Tac-Toi is a simple and fun implementation of the classic Tic-Tac-Toe game. 
 ```
 - Open 'index.html' in your preferred web browser.
 - Start the game and enjoy!
+- <img width="1470" alt="Screenshot 2024-08-11 at 9 27 36 PM" src="https://github.com/user-attachments/assets/124178a0-4641-4f18-b0ed-ed65f411032c">
     
 ## Project Structure
 
